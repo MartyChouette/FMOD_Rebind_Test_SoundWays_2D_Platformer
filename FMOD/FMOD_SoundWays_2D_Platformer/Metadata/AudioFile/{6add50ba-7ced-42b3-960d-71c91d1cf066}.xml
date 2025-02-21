@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{6add50ba-7ced-42b3-960d-71c91d1cf066}">
+		<property name="assetPath">
+			<value>destroy_tama_sfx.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.6875</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{f0b6be2e-0812-4373-93b6-360cc7886d20}</destination>
+		</relationship>
+	</object>
+</objects>
